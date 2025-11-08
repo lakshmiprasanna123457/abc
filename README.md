@@ -1,7 +1,9 @@
 # abc
 <html>
-<head></head>
+<head><style>p{display:inline-block ;}</style></head>
 <body>
-  hello
+  <p>iam learning git</p>
+  <p>iam in github</p>
+  <p>html tutorial</p>
 </body>
 </html>
