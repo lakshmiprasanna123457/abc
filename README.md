@@ -1,6 +1,8 @@
 # abc
-<html>
-<head><style>
+
+<!DOCTYPE html ><html>
+<head> <title>iam creating css file </title>
+  <style>
   body{
   background-color:blue ;
     }
