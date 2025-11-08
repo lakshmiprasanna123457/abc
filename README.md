@@ -1,7 +1,9 @@
 # abc
 <html>
-<head><style>p{
-  display:inline-blue ;
+<head><style>
+  body{
+  background-color:blue ;
+    p {color :red;}
               }</style></head>
 <body>
   <p>iam learning git</p>
