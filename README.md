@@ -3,8 +3,9 @@
 <head><style>
   body{
   background-color:blue ;
+    }
     p {color :red;}
-              }</style></head>
+      </style></head>
 <body>
   <p>iam learning git</p>
   <p>iam in github</p>
