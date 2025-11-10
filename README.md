@@ -1,6 +1,8 @@
 # abc
-<html>
-<head></head>
+
+<!DOCTYPE html ><html>
+<head> 
+ </head>
 <body>
   <h1>
     iam creating student table</h1>
