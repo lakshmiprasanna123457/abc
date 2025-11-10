@@ -4,9 +4,15 @@
 <head> 
  </head>
 <body>
-   <h1  style="color:blue;text-align:center" >welcome to inline class </h1>
-<p  style="font-size:18px;color:red " >welcome to inline class and this program run in git hub</p>
-  <button style="background-color :orange;color:black; padding :20px ;border-color:red">click me</button>
-  
+  <h1>
+    iam creating student table</h1>
+  <table border =5>
+    <tr>
+      <th>SID </th><th>SNAME  </th><th>SMARKS  </th><th>GRADE </th>
+    </tr>
+    <tr><td>1</td><td>krishna</td><td>75</td><td>B</td></tr>
+    <tr><td>2</td><td>james</td><td>60</td><td>B</td></tr>
+    <tr><td>3</td><td>lavanya</td><td>85</td><td>A+</td></tr>
+  </table>
 </body>
 </html>
