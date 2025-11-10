@@ -2,6 +2,8 @@
 <html>
 <head></head>
 <body>
+  <h1>
+    iam creating student table></h1>
   <table border =5>
     <tr>
       <th>SID </th><th>SNAME  </th><th>SMARKS  </th><th>GRADE </th>
